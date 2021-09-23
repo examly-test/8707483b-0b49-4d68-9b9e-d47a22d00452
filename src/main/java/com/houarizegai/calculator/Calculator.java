@@ -312,7 +312,7 @@ public class Calculator {
             }
             go = true;
         });
-
+jdslfakjldkjfld-jkdkjkd
         btnAdd = initBtn("+", x[3], y[4], event -> {
             repaintFont();
             if (Pattern.matches("([-]?\\d+[.]\\d*)|(\\d+)", inText.getText()))
